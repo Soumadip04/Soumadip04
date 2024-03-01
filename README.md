@@ -1,7 +1,6 @@
 ![logo](https://github.com/Soumadip04/Soumadip04/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Soumadip Das</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="logo" align="right" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumadip04&label=Profile%20views&color=0e75b6&style=flat" alt="soumadip04" /> </p>
@@ -19,10 +18,12 @@
 <a href="https://twitter.com/soumadip16_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumadip16_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/soumadip-das-574563239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumadip-das-574563239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22857627/soumadip04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22857627/soumadip04" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/soumadip1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/soumadip1" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/soumadip.das.3597?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/soumadip.das.3597?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/soumadip_das_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumadip_das_1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/soumadip1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/soumadip1122" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/soumadip1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumadip1122" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@soumadip1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@soumadip1122" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/soumadip_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soumadip_16" height="30" width="40" /></a>
 </p>
 
