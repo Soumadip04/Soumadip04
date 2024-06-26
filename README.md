@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumadip Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="gif" width="400" src="https://github.com/Soumadip04/Soumadip04/blob/main/Images/giphy.webp">
 
 
