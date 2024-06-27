@@ -1,3 +1,4 @@
+![logo](https://github.com/Soumadip04/Soumadip04/blob/main/Images/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Soumadip Das</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="gif" width="400" src="https://github.com/Soumadip04/Soumadip04/blob/main/Images/giphy.webp">
