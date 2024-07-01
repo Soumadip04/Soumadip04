@@ -32,10 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumadip04&" alt="soumadip04" /></p>
 <br/><br/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![snake gif](https://github.com/Soumadip04/Soumadip04/blob/output/github-contribution-grid-snake-dark.svg)
-  
-  <br/><br/><br/>
-</div>
